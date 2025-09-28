@@ -1,0 +1,4 @@
+/* Extra breathing room below the post meta block */
+.page.single .post-meta {
+  margin-bottom: 1.75rem;
+}

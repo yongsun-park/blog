@@ -1,0 +1,125 @@
+baseURL = 'https://yongsun-park.github.io/blog/'
+title = 'Yongsun Park • EDA Notes'
+languageCode = 'ko-KR'
+defaultContentLanguage = 'ko'
+hasCJKLanguage = true
+theme = 'LoveIt'
+
+enableRobotsTXT = true
+enableEmoji = true
+
+[pagination]
+  pagerSize = 10
+  path = 'page'
+
+[params]
+  defaultTheme = 'auto'
+  dateFormat = '2006-01-02'
+  description = 'PCB, PKG, DFM/DRC, CAD·CAE 자동화 중심의 EDA 실무 경험과 노트를 공유합니다.'
+  images = ['/images/share.png']
+  fingerprint = ''
+
+  [params.author]
+    name = 'Yongsun Park'
+    email = ''
+    link = ''
+
+  [params.home]
+    rss = 10
+    [params.home.profile]
+      enable = true
+      avatarURL = ''
+      title = 'Yongsun Park'
+      subtitle = 'PCB · PKG · DFM · DRC · CAD/CAE Automation · AI · LLM'
+      typeit = false
+      social = false
+      disclaimer = '<a href="https://yongsun-park.github.io/" target="_blank" rel="noopener">yongsun-park.github.io</a>'
+    [params.home.posts]
+      enable = true
+      paginate = 6
+
+  [params.header]
+    desktopMode = 'fixed'
+    mobileMode = 'auto'
+    [params.header.title]
+      logo = ''
+      name = 'Yongsun Park'
+      pre = ''
+      post = ''
+      typeit = false
+
+  [params.page]
+    hiddenFromHomePage = false
+    hiddenFromSearch = false
+    twemoji = false
+    lightgallery = false
+    ruby = true
+    fraction = true
+    fontawesome = true
+    linkToMarkdown = true
+    rssFullText = false
+
+    [params.page.toc]
+      enable = true
+      keepStatic = false
+      auto = true
+
+    [params.page.code]
+      copy = true
+      maxShownLines = 50
+
+      [params.page.code.render]
+        mermaid = true
+        goat = true
+
+    [params.page.share]
+      enable = true
+      X = true
+      Threads = true
+      Facebook = false
+      Linkedin = true
+      HackerNews = true
+      Line = false
+      Weibo = false
+      Telegram = true
+
+  [params.library]
+    css = ['css/custom.css']
+
+  [params.cdn]
+    data = 'jsdelivr.yml'
+
+[menu]
+  [[menu.main]]
+    identifier = 'posts'
+    name = 'Posts'
+    url = '/posts/'
+    weight = 1
+  [[menu.main]]
+    identifier = 'tags'
+    name = 'Tags'
+    url = '/tags/'
+    weight = 2
+  [[menu.main]]
+    identifier = 'categories'
+    name = 'Categories'
+    url = '/categories/'
+    weight = 3
+
+[markup]
+  [markup.highlight]
+    anchorLineNos = false
+    codeFences = true
+    guessSyntax = false
+    lineNos = true
+    lineNumbersInTable = false
+    noClasses = true
+    style = 'friendly'
+
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 6
