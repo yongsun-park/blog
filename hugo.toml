@@ -68,9 +68,12 @@ enableEmoji = true
       copy = true
       maxShownLines = 50
 
-      [params.page.code.render]
-        mermaid = true
-        goat = true
+    [params.page.code.render]
+      mermaid = true
+      goat = true
+
+    [params.page.library]
+      css = ['css/custom.css']
 
     [params.page.share]
       enable = true
@@ -82,9 +85,6 @@ enableEmoji = true
       Line = false
       Weibo = false
       Telegram = true
-
-  [params.library]
-    css = ['css/custom.css']
 
   [params.cdn]
     data = 'jsdelivr.yml'
