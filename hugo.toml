@@ -74,6 +74,9 @@ enableEmoji = true
 
     [params.page.library]
       css = ['css/custom.css']
+      js = [
+        "<script defer src=\"https://static.cloudflareinsights.com/beacon.min.js\" data-cf-beacon='{\"token\": \"0c991e8a89e748b7abd4a938ac2f3185\"}'></script>"
+      ]
 
     [params.page.share]
       enable = true
