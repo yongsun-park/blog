@@ -5,6 +5,14 @@ draft = false
 tags = ['PCB', 'CAE', 'AI', 'LLM', 'Agentic AI', '자동화', '수치해석']
 categories = ['AI']
 description = 'AI가 수치해석을 대체할 수 있을까? LLM이 해석 엔지니어의 일상을 어떻게 바꾸고 있는지, 그리고 Agentic AI 워크플로우의 가능성까지.'
+
+[[resources]]
+  name = 'featured-image'
+  src = 'blog_image.jpg'
+
+[[resources]]
+  name = 'featured-image-preview'
+  src = 'blog_image.jpg'
 +++
 
 ## 들어가며
