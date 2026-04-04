@@ -5,6 +5,14 @@ draft = false
 tags = ['CAE', 'EDA', 'Agentic AI', '자동화', '의뢰 시스템']
 categories = ['AI']
 description = '웹 의뢰 시스템과 대시보드 중심이었던 CAE 자동화가 에이전트 환경에서 어떻게 바뀔 수 있는지에 대한 생각'
+
+[[resources]]
+  name = 'featured-image'
+  src = 'banner.png'
+
+[[resources]]
+  name = 'featured-image-preview'
+  src = 'banner.png'
 +++
 
 ## 들어가며
