@@ -1,0 +1,18 @@
+Boris Cherny가 공유한 Steps of AI Adoption은 좋은 모델과 토큰을 많이 공급해도 조직 전체의 AI 활용 수준이 저절로 올라가지는 않는다고 설명해요.
+
+사람이 한 Agent의 결과를 거의 모두 확인하는 단계에서는 사람의 집중력과 신뢰가 병목이 됩니다. 여러 Agent를 운영하고 목적과 예외를 관리하는 단계로 갈수록 결과의 검토와 조율, 검증 체계에 대한 신뢰가 새로운 병목이 돼요.
+
+AI 도입 수준은 사용하는 모델이 아니라, AI가 자신의 작업을 검증하고 다음 행동을 결정할 수 있는 범위로 판단해야 한다.
+
+검증은 AI를 막는 통제가 아닙니다. AI에게 더 많은 자율성을 줄 수 있게 만드는 기반이에요. 확인 방법이 없으면 사람은 계속 모든 결과를 검토해야 합니다.
+
+DRC, 설계 데이터 처리, 해석 자동화 기술은 기존 도구에 AI 기능을 붙이는 것 이상의 의미를 갖습니다. PCB·PKG에서는 DRC와 해석 결과가 오류 위치와 원인, 조건을 구조화해 돌려주고, Agent가 이를 바탕으로 수정·재실행·재검증할 수 있어야 해요. 저는 이 기술들이 여러 Agent를 운영하기 위한 검증 인프라가 될 수 있다고 봅니다.
+
+이 자료는 Anthropic의 공식 성숙도 모델이 아니라 Boris가 소프트웨어 개발 조직을 보며 정리한 개인 프레임이에요.
+
+단계별 내용과 PCB·PKG 관점의 해석은 블로그에 조금 더 자세히 정리했습니다.
+
+원문 자료: https://claude.ai/code/artifact/bfdfaef9-bc62-4dfe-ba9e-c58a26c9accf
+블로그 글: https://yongsun-park.github.io/blog/posts/260729-ai-adoption-bottlenecks-verification/
+
+#AIAgent #AIAdoption #EDA #PCB #DesignAutomation
