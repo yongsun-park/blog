@@ -10,4 +10,6 @@ AI Agent는 도구를 실행하고 결과를 모은 뒤, 정해진 조건에 따
 
 출처: https://x.com/bcherny/status/2077460395279692197
 
+블로그 글: https://yongsun-park.github.io/blog/posts/260722-ai-agent-automation-infrastructure/
+
 #AIAgent #EDA #PCB #PKG #Automation
