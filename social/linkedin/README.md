@@ -7,5 +7,9 @@ LinkedIn publication automations.
 - The file body is sent to LinkedIn as plain text without rewriting it.
 - Working drafts remain under `../drafts/`; copy a reviewed final version here
   before scheduling publication.
+- Keep exactly one URL in each approved publication copy: the corresponding
+  yongsun-park blog post URL.
+- Put source links such as original articles, X posts, YouTube videos, and
+  Claude Artifacts in the blog post rather than the publication copy.
 - Each automation must use a stable publication ID so reruns cannot create a
   duplicate post.

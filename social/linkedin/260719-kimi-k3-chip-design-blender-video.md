@@ -14,8 +14,6 @@ Kimi 발표에 따르면 K3는 오픈소스 EDA와 Nangate 45nm를 이용해 nan
 
 PCB·PKG 설계 자동화에서도 결국 중요한 건 그럴듯한 결과가 아니라 실제 설계에 쓸 수 있는지 검증하는 일이라고 생각합니다.
 
-Kimi 공식 글: https://www.kimi.com/blog/kimi-k3
-Xinyu 원문: https://x.com/Xinyu2ML/status/2078036914788323595
 블로그 글: https://yongsun-park.github.io/blog/posts/260719-kimi-k3-chip-design-blender-video/
 
 #KimiK3 #EDA #Blender #PCB #PKG #AgenticAI

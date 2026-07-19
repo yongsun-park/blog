@@ -12,7 +12,6 @@ DRC, 설계 데이터 처리, 해석 자동화 기술은 기존 도구에 AI 기
 
 단계별 내용과 PCB·PKG 관점의 해석은 블로그에 조금 더 자세히 정리했습니다.
 
-원문 자료: https://claude.ai/code/artifact/bfdfaef9-bc62-4dfe-ba9e-c58a26c9accf
 블로그 글: https://yongsun-park.github.io/blog/posts/260729-ai-adoption-bottlenecks-verification/
 
 #AIAgent #AIAdoption #EDA #PCB #DesignAutomation

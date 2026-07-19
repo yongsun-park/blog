@@ -8,7 +8,6 @@ AI Agent는 도구를 실행하고 결과를 모은 뒤, 정해진 조건에 따
 
 저는 PCB·PKG 설계 자동화를 제품화하면서 이 방향을 주목하고 있어요. 현재 EDA AI가 전체 과정을 안정적으로 수행한다고 단정할 단계는 아니지만, 사람은 목표와 판단, 검증에 집중하고 Agent가 정리된 지식과 도구로 반복을 이어 가는 구조는 계속 만들어 볼 만합니다. 작은 자동화가 연결되고 쌓일 때 기대하던 변화도 나타날 것 같아요.
 
-출처: https://x.com/bcherny/status/2077460395279692197
 블로그 글: https://yongsun-park.github.io/blog/posts/260722-ai-agent-automation-infrastructure/
 
 #AIAgent #EDA #PCB #PKG #Automation
