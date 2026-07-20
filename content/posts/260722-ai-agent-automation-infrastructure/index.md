@@ -1,6 +1,6 @@
 +++
 title = 'AI 에이전트의 마법은 자동화의 연장선에 있다'
-date = '2026-07-22T10:00:00+09:00'
+date = '2026-07-21T06:55:00+09:00'
 draft = false
 tags = ['AI Agent', 'EDA', 'PCB', 'PKG', '자동화', '도메인 지식']
 categories = ['AI']
