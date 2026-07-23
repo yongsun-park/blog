@@ -1,6 +1,6 @@
 +++
 title = 'AI Agent가 빨라질수록 검증 기술의 가치가 커집니다'
-date = '2026-07-25T10:00:00+09:00'
+date = '2026-07-23T20:30:00+09:00'
 draft = false
 tags = ['AI Agent', 'EDA', 'PCB', 'PKG', 'DRC', 'CAE', '검증', '자동화']
 categories = ['AI']
