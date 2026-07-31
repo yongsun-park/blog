@@ -8,11 +8,11 @@ description = 'DeepSeek V4 Flash 0731의 Agent 성능과 API 가격, MIT 공개 
 
 [[resources]]
   name = 'featured-image'
-  src = 'featured-image.png'
+  src = 'featured-image-whale.png'
 
 [[resources]]
   name = 'featured-image-preview'
-  src = 'featured-image.png'
+  src = 'featured-image-whale.png'
 +++
 
 ## 들어가며
